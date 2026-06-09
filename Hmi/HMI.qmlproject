@@ -1,0 +1,10 @@
+{
+    "mainFile": "src/qml/main.qml",
+    "importPaths": [
+        "${PWD}/antui"
+    ],
+    "sourcePaths": [
+        "src",
+        "antui"
+    ]
+}

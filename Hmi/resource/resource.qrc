@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>font/YouSheBiaoTiHei-2.ttf</file>
+        <file>image/erweima.png</file>
+        <file>image/login_bg.jpg</file>
+        <file>image/login_bg2.jpg</file>
+        <file>image/login_bg3.jpg</file>
+        <file>image/login_bg4.png</file>
+        <file>icon/down.svg</file>
+        <file>icon/selected.svg</file>
+        <file>icon/unselect.svg</file>
+        <file>font/SmileySans-Oblique.otf</file>
+        <file>icon/iot.svg</file>
+        <file>fontawesome6.72pro/Brands_Regular_400.otf</file>
+        <file>fontawesome6.72pro/Duotone_Light_300.otf</file>
+        <file>fontawesome6.72pro/Duotone_Regular_400.otf</file>
+        <file>fontawesome6.72pro/Duotone_Solid_900.otf</file>
+        <file>fontawesome6.72pro/Duotone_Thin_100.otf</file>
+        <file>fontawesome6.72pro/Pro_Light_300.otf</file>
+        <file>fontawesome6.72pro/Pro_Regular_400.otf</file>
+        <file>fontawesome6.72pro/Pro_Solid_900.otf</file>
+        <file>fontawesome6.72pro/Pro_Thin_100.otf</file>
+        <file>fontawesome6.72pro/Sharp_Light_300.otf</file>
+        <file>fontawesome6.72pro/Sharp_Regular_400.otf</file>
+        <file>fontawesome6.72pro/Sharp_Solid_900.otf</file>
+        <file>fontawesome6.72pro/Sharp_Thin_100.otf</file>
+        <file>fontawesome6.72pro/SharpDuotone_Light_300.otf</file>
+        <file>fontawesome6.72pro/SharpDuotone_Regular_400.otf</file>
+        <file>fontawesome6.72pro/SharpDuotone_Solid_900.otf</file>
+        <file>fontawesome6.72pro/SharpDuotone_Thin_100.otf</file>
+    </qresource>
+</RCC>
